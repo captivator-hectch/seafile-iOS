@@ -22,9 +22,9 @@ enum ACCOUNT_TYPE {
 /**
  * Constants for SeaCloud server.
  */
-#define SERVER_SEACLOUD         @"cloud.seafile.com"
+#define SERVER_SEACLOUD         @"cloud.drive.space"
 
-#define SERVER_SEACLOUD_NAME    @"cloud.seafile.com"
+#define SERVER_SEACLOUD_NAME    @"cloud.drive.space"
 #define SERVER_SHIB_NAME        NSLocalizedString(@"Single Sign On", @"Seafile")
 
 /**A view controller to manage Seafile account login and setup. */

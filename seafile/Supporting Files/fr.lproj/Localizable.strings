@@ -22,7 +22,7 @@
 "%ld photos remain" = " il reste %ld photos ";
 
 /* Seafile */
-"%ld files are uploaded to Seafile" = "%ld fichiers ont été envoyés sur Seafile";
+"%ld files are uploaded to Seafile" = "%ld fichiers ont été envoyés sur DriveSpace";
 
 /* Seafile */
 "1 photo remain" = "Il reste 1 photo ";
@@ -130,7 +130,7 @@
 "Auto clear passwords" = "Effacement automatique des mots de passe";
 
 /* Seafile */
-"Auto merge by seafile system" = "Fusionné automatiquement par Seafile";
+"Auto merge by seafile system" = "Fusionné automatiquement par DriveSpace";
 
 /* Seafile */
 "Auto upload should be enabled first." = "L'envoi automatique doit d'abord être activé.";
@@ -178,7 +178,7 @@
 "Choose directory" = "Choisissez un répertoire";
 
 /* Seafile */
-"Choose a Seafile server" = "Choisissez un serveur Seafile";
+"Choose a Seafile server" = "Choisissez un serveur DriveSpace";
 
 /* Seafile */
 "Choose an account to start" = "Choisissez un compte pour commencer";
@@ -604,7 +604,7 @@
 "Open photo browser" = "Ouvrir le navigateur photo";
 
 /* Seafile */
-"Open Seafile to view details" = "Ouvrir Seafile pour voir les détails";
+"Open Seafile to view details" = "Ouvrir DriveSpace pour voir les détails";
 
 /* Seafile */
 "Organization" = "Organisation";
@@ -778,7 +778,7 @@
 "Save to %@" = "Sauvegarder vers %@";
 
 /* MainInterface.storyboard */
-"Save to Seafile" = "Sauvegarder vers Seafile";
+"Save to Seafile" = "Sauvegarder vers DriveSpace";
 
 /* Seafile */
 "Save to album" = "Sauvegarder vers l'album";
@@ -787,7 +787,7 @@
 "Saving all photos to album" = "Enregistrer toutes les photos de l'album";
 
 /* Seafile */
-"Seafile" = "Seafile";
+"Seafile" = "DriveSpace";
 
 /* Seafile */
 "Search" = "Rechercher";
@@ -1039,7 +1039,7 @@
 "Waiting to upload" = "% en attente d'envoi";
 
 /* FolderView_iPad.storyboard, FolderView_iPhone.storyboard */
-"www.seafile.com" = "www.seafile.com";
+"www.drive.space" = "www.drive.space";
 
 /* Share to WeChat */
 "Share to WeChat" = "Partagé avec WeChat";
@@ -1057,16 +1057,16 @@
 "Privacy Policy" = "Respect de la vie privée.";
 
 /* Privacy Policy URL */
-"https://www.seafile.com/en/privacy_policy/" = "https://www.seafile.com/en/privacy_policy/";
+"https://www.drive.space/en/privacy_policy/" = "https://www.drive.space/en/privacy_policy/";
 
 /*  TouchID is Enabled  */
 "FaceID(TouchID) is Enabled" = "FaceID(TouchID) est activé";
 
 /* Files cannot be used whith TouchID */
-"Files cannot access files in Seafile when FaceID(TouchID) enabled. Please open Seafile and disable FaceID(TouchID)." = "Impossible d'accéder aux fichiers dans Seafile lorsque FaceID (TouchID) est activé. Veuillez ouvrir Seafile et désactiver FaceID (TouchID).";
+"Files cannot access files in Seafile when FaceID(TouchID) enabled. Please open Seafile and disable FaceID(TouchID)." = "Impossible d'accéder aux fichiers dans DriveSpace lorsque FaceID (TouchID) est activé. Veuillez ouvrir DriveSpace et désactiver FaceID (TouchID).";
 
 /* Seafile */
-"Please open Seafile ans add an account to start" = "Veuillez ouvrir Seafile et ajouter un compte pour commencer.";
+"Please open Seafile ans add an account to start" = "Veuillez ouvrir DriveSpace et ajouter un compte pour commencer.";
 
 /* Appearance settings */
 "Appearance" = "Appearance";

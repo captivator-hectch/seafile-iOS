@@ -9,10 +9,10 @@
 #import <UIKit/UIKit.h>
 #import "SeafTheme.h"
 
-#define SEAFILE_SUITE_NAME @"group.com.seafile.seafilePro"
-#define APP_ID @"com.seafile.seafilePro"
-#define SEAF_FILE_PROVIDER @"com.seafile.seafilePro.fileprovider"   // legacy provider metadata, read once by SeafFileProviderLegacyMigrator
-#define SEAF_FP_MIGRATED @"com.seafile.seafilePro.fileprovider.migrated"
+#define SEAFILE_SUITE_NAME @"group.space.drive.DriveSpace"
+#define APP_ID @"space.drive.DriveSpace"
+#define SEAF_FILE_PROVIDER @"space.drive.DriveSpace.fileprovider"   // legacy provider metadata, read once by SeafFileProviderLegacyMigrator
+#define SEAF_FP_MIGRATED @"space.drive.DriveSpace.fileprovider.migrated"
 
 #define kPrimaryBackgroundColor [SeafTheme primaryBackgroundColor]
 

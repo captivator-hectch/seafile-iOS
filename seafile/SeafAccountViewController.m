@@ -262,8 +262,8 @@
             break;
         case ACCOUNT_OTHER:{
 #if DEBUG
-            serverTextField.text = @"dev.seafile.com/seahub";
-            usernameTextField.text = @"demo@seafile.com";
+            serverTextField.text = @"dev.drive.space/seahub";
+            usernameTextField.text = @"demo@drive.space";
             passwordTextField.text = @"";
 #else
 
@@ -273,8 +273,8 @@
         case ACCOUNT_SHIBBOLETH:
             _httpsSwitch.enabled = false;
 #if DEBUG
-            serverTextField.text = @"dev.seafile.com/seahub/";
-//            serverTextField.text = @"dev2.seafile.com/seahub/";
+            serverTextField.text = @"dev.drive.space/seahub/";
+//            serverTextField.text = @"dev2.drive.space/seahub/";
 #else
 
 #endif

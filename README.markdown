@@ -2,7 +2,7 @@
 Introduction
 ============
 
-Seafile-iOS is a the iOS client for [Seafile](http://www.seafile.com).
+Seafile-iOS is a the iOS client for [DriveSpace](http://www.drive.space).
 
 Build and Run
 =============

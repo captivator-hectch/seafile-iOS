@@ -29,7 +29,7 @@
     _webView = [[WKWebView alloc]initWithFrame:self.view.bounds];
     _webView.navigationDelegate  = self;
     [self.view addSubview:_webView];
-    NSURL *url = [NSURL URLWithString:NSLocalizedString(@"https://www.seafile.com/en/privacy_policy/", @"Seafile")];
+    NSURL *url = [NSURL URLWithString:NSLocalizedString(@"https://www.drive.space/en/privacy_policy/", @"Seafile")];
     [_webView loadRequest:[NSURLRequest requestWithURL:url]];
     
     [self.view addSubview:self.progressView];

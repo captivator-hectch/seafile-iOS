@@ -30,7 +30,7 @@
 				<key>NSExtensionFileProviderActionActivationRule</key>
 				<string>TRUEPREDICATE</string>
 				<key>NSExtensionFileProviderActionIdentifier</key>
-				<string>com.seafile.FileProviderUI.CustomAction</string>
+				<string>space.drive.DriveSpace.FileProviderUI.CustomAction</string>
 				<key>NSExtensionFileProviderActionName</key>
 				<string>Custom Action</string>
 			</dict>

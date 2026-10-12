@@ -6,7 +6,7 @@ import XCTest
 final class FilesAppReplicatedUITests: XCTestCase {
 
     private let filesBundleID = "com.apple.DocumentsApp"
-    private let seafileBundleID = "com.seafile.seafilePro"
+    private let seafileBundleID = "space.drive.DriveSpace"
 
     override func setUpWithError() throws {
         continueAfterFailure = false

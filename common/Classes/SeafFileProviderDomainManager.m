@@ -10,7 +10,7 @@
 #import "SeafConstants.h"
 #import "Debug.h"
 
-static NSString * const kSeafFPLegacyStorageCleaned = @"com.seafile.seafilePro.fileprovider.legacyStorageCleaned";
+static NSString * const kSeafFPLegacyStorageCleaned = @"space.drive.DriveSpace.fileprovider.legacyStorageCleaned";
 static NSString * const kSeafFPLegacyStorageDirectory = @"File Provider Storage";
 static const NSTimeInterval kSeafFPSignalCoalesceInterval = 2.0;
 

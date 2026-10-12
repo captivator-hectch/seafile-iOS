@@ -1,5 +1,5 @@
 /* Localized versions of Info.plist keys */
 
-CFBundleDisplayName = "SeafilePro";
+CFBundleDisplayName = "DriveSpace";
 
-"NSLocalNetworkUsageDescription" = "Seafile benötigt Zugriff auf Server im lokalen Netzwerk.";
+"NSLocalNetworkUsageDescription" = "DriveSpace benötigt Zugriff auf Server im lokalen Netzwerk.";

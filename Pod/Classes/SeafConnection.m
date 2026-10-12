@@ -983,7 +983,7 @@ static NSString *const kSeafThumbnailServerAvailableKey = @"thumbnailServerAvail
 }
 
 /*
- curl -D a.txt --data "username=xx@seafile.com&password=xx" https://seacloud.cc/api2/auth-token/
+ curl -D a.txt --data "username=xx@drive.space&password=xx" https://seacloud.cc/api2/auth-token/
  */
 - (void)loginWithUsername:(NSString *)username password:(NSString *)password otp:(NSString *)otp rememberDevice:(BOOL)remember
 {

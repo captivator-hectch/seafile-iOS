@@ -8,8 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
-#define SEAFILE_SUITE_NAME @"group.com.seafile.seafilePro"
-#define APP_ID @"com.seafile.seafilePro"
+#define SEAFILE_SUITE_NAME @"group.space.drive.DriveSpace"
+#define APP_ID @"space.drive.DriveSpace"
 
 // Posted by the SDK after a change the Files app should learn about. The
 // main app forwards it to the account's File Provider domain; extensions

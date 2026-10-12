@@ -22,7 +22,7 @@
 "%ld photos remain" = "%ld fotek zbývá";
 
 /* Seafile */
-"%ld files are uploaded to Seafile" = "%ld files are uploaded to Seafile";
+"%ld files are uploaded to Seafile" = "%ld files are uploaded to DriveSpace";
 
 /* Seafile */
 "1 photo remain" = "1 fotka zbývá";
@@ -178,7 +178,7 @@
 "Choose directory" = "Choose directory";
 
 /* Seafile */
-"Choose a Seafile server" = "Vyberte SSeafile server";
+"Choose a Seafile server" = "Vyberte SDriveSpace server";
 
 /* Seafile */
 "Choose an account to start" = "Začněte volbou účtu";
@@ -604,7 +604,7 @@
 "Open photo browser" = "Otevřít prohlížeč fotografií";
 
 /* Seafile */
-"Open Seafile to view details" = "Open Seafile to view details";
+"Open Seafile to view details" = "Open DriveSpace to view details";
 
 /* Seafile */
 "Organization" = "Organizace";
@@ -778,7 +778,7 @@
 "Save to %@" = "Uložit do %@";
 
 /* MainInterface.storyboard */
-"Save to Seafile" = "Save to Seafile";
+"Save to Seafile" = "Save to DriveSpace";
 
 /* Seafile */
 "Save to album" = "Uložit album";
@@ -787,7 +787,7 @@
 "Saving all photos to album" = "Saving all photos to album";
 
 /* Seafile */
-"Seafile" = "Seafile";
+"Seafile" = "DriveSpace";
 
 /* Seafile */
 "Search" = "Hledat";
@@ -1039,7 +1039,7 @@
 "Waiting to upload" = "%Waiting to upload";
 
 /* FolderView_iPad.storyboard, FolderView_iPhone.storyboard */
-"www.seafile.com" = "www.seafile.com";
+"www.drive.space" = "www.drive.space";
 
 /* Share to WeChat */
 "Share to WeChat" = "Share to WeChat";
@@ -1057,16 +1057,16 @@
 "Privacy Policy" = "Privacy Policy";
 
 /* Privacy Policy URL */
-"https://www.seafile.com/en/privacy_policy/" = "https://www.seafile.com/en/privacy_policy/";
+"https://www.drive.space/en/privacy_policy/" = "https://www.drive.space/en/privacy_policy/";
 
 /*  TouchID is Enabled  */
 "FaceID(TouchID) is Enabled" = "FaceID(TouchID) is Enabled";
 
 /* Files cannot be used whith TouchID */
-"Files cannot access files in Seafile when FaceID(TouchID) enabled. Please open Seafile and disable FaceID(TouchID)." = "Files cannot access files in Seafile when FaceID(TouchID) enabled. Please open Seafile and disable FaceID(TouchID).";
+"Files cannot access files in Seafile when FaceID(TouchID) enabled. Please open Seafile and disable FaceID(TouchID)." = "Files cannot access files in DriveSpace when FaceID(TouchID) enabled. Please open DriveSpace and disable FaceID(TouchID).";
 
 /* Seafile */
-"Please open Seafile ans add an account to start" = "Please open Seafile ans add an account to start.";
+"Please open Seafile ans add an account to start" = "Please open DriveSpace ans add an account to start.";
 
 /* Appearance settings */
 "Appearance" = "Appearance";
